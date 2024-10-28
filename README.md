@@ -1,2 +1,3 @@
 # First-Homepage
-Training Example
+
+Just a homepage to test my knowledge
