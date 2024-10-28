@@ -6,4 +6,4 @@
 - Media Querrys (Responsive Design)
 - Anpassung der Bildgrößen
 - Google Service im Impressum einbinden
-- Cookie Seite erstellen
+- Cookies
